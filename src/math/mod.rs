@@ -196,6 +196,7 @@ mod k_tanf;
 mod rem_pio2;
 mod rem_pio2_large;
 mod rem_pio2f;
+mod musl;
 
 // Private re-imports
 use self::expo2::expo2;
